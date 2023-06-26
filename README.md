@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I am Emre Coskun
+- 🔭 I’m currently working as a .NET Back-End Developer
+- 📫 How to reach me: emrecsk@gmail.com
 <!--
 **emrecsk/emrecsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
