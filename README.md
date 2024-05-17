@@ -6,7 +6,7 @@
 ### NTT DATA
 **Back End Developer** | May 2022 - Present | Copenhagen, Denmark
 - Develop clean, scalable code for web, API, and desktop applications using .NET C# and .Net Core.
-- Implement CI/CD pipelines in Azure DevOps, enhancing deployment efficiency by 30%.
+- Collaborated with DevOps teams to implement CI/CD pipelines in Azure DevOps.
 - Streamline database interactions using ORM techniques for SQL and NoSQL databases.
 - Integrate RESTful APIs and Semantic Kernel for AI-driven features, improving app functionality.
 - Collaborate with frontend developers to ensure seamless integration of backend services. 
