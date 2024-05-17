@@ -1,8 +1,15 @@
 ### Hi there 👋 I am Emre Coskun
-- 🔭 I’m currently working as a .NET Back-End Developer who is building scalable and secure web applications with C#, EF Core & Azure
 - 📫 How to reach me: emrecsk@gmail.com
 - :factory: Linkedin profile: https://www.linkedin.com/in/coskun-emre/
 - :hammer_and_wrench: Key Skills: C#, .NET, Object-Oriented Programming, Object-Relational Mapping, OpenAI, Semantic Kernel, Layered Architecture, Azure DevOps, Relational Databases, EF Core
+
+### NTT DATA
+**Back End Developer** | May 2022 - Present | Copenhagen, Denmark
+- Develop clean, scalable code for web, API, and desktop applications using .NET C# and .Net Core.
+- Implement CI/CD pipelines in Azure DevOps, enhancing deployment efficiency by 30%.
+- Streamline database interactions using ORM techniques for SQL and NoSQL databases.
+- Integrate RESTful APIs and Semantic Kernel for AI-driven features, improving app functionality.
+- Collaborate with frontend developers to ensure seamless integration of backend services. 
 <!--
 **emrecsk/emrecsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
